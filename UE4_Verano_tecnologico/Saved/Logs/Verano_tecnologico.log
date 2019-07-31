@@ -805,3 +805,282 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.31-11.23.50:162][114]LogSlate: Window 'Levels' being destroyed
 [2019.07.31-11.23.52:371][171]LogLinux: Scale at X=1008.500000, Y=404.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
 [2019.07.31-11.23.52:423][172]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-11.41.35:277][601]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Initial_draft_player_1)
+[2019.07.31-12.16.58:713][199]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-12.16.58:827][202]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Initial_draft_player_1)
+[2019.07.31-12.17.03:138][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-12.17.13:986][561]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.17.13:986][561]LogLinux: Scale at X=478.000000, Y=167.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.17.14:009][561]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.17.14:066][561]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.17.22:587][779]LogSlate: Window 'Select Path' being destroyed
+[2019.07.31-12.17.22:683][779]LogUObjectHash: Compacting FUObjectHashTables data took   9.33ms
+[2019.07.31-12.17.22:755][779]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.17.22:755][779]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.17.22:758][779]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.17.22:792][779]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.31-12.17.22:806][779]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Initial_draft_player_1_Blueprint.Initial_draft_player_1_Blueprint
+[2019.07.31-12.17.22:816][779]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.17.22:857][779]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.17.22:857][779]LogLinux: Scale at X=688.000000, Y=402.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.17.24:279][779]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 121 classes and 0 folders.
+[2019.07.31-12.17.26:697][779]LogMaterial: Display: Missing cached shader map for material GridMaterial, compiling. 
+[2019.07.31-12.17.26:806][779]LogStaticMesh: Building static mesh PhAT_FloorBox...
+[2019.07.31-12.17.27:310][779]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2019.07.31-12.17.27:314][779]LogStaticMesh: Built static mesh [0.51s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2019.07.31-12.17.28:640][779]LogTexture: Display: Building textures: TilePatine_N (BC5, 512X512)
+[2019.07.31-12.17.28:642][779]LogTexture: Display: Building textures: TilePatine_D (AutoDXT, 512X512)
+[2019.07.31-12.17.28:642][779]LogMaterial: Display: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2019.07.31-12.17.30:452][779]LogRenderer: Reallocating scene render targets to support 1088x600 Format 10 NumSamples 1 (Frame:1).
+[2019.07.31-12.17.31:189][780]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.17.37:597][841]LogLinux: Scale at X=178.000000, Y=79.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.17.37:598][841]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.17.37:700][841]LogLinux: Scale at X=178.000000, Y=79.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.17.37:701][841]LogSlate: Window 'Tutorials' being destroyed
+[2019.07.31-12.19.01:362][899]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.19.01:362][899]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.19.01:362][899]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.19.01:538][900]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.19.10:417][ 32]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.19.10:418][ 32]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.19.10:466][ 32]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.19.10:567][ 32]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.19.10:759][ 32]LogUObjectHash: Compacting FUObjectHashTables data took  19.67ms
+[2019.07.31-12.19.11:487][ 32]LogSavePackage: Moving '../../../../../VeranoTecnologico/UE4_Verano_tecnologico/Saved/Minimal_Default_Auto1DA3F853408D715C20EEA12C49D1EAB2B.tmp' to '../../../../../VeranoTecnologico/UE4_Verano_tecnologico/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2019.07.31-12.19.11:597][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Draft" FILE="../../../../../VeranoTecnologico/UE4_Verano_tecnologico/Saved/Autosaves/Game/Draft_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.07.31-12.19.11:628][ 32]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Draft, Actor: /Game/Draft.Draft:PersistentLevel.REINST_Draft_C_0
+[2019.07.31-12.19.12:121][ 32]LogSavePackage: Moving '../../../../../VeranoTecnologico/UE4_Verano_tecnologico/Saved/Draft_Auto1DA48FB6308D715C20F4F2ED49D28C794.tmp' to '../../../../../VeranoTecnologico/UE4_Verano_tecnologico/Saved/Autosaves/Game/Draft_Auto1.umap'
+[2019.07.31-12.19.12:125][ 32]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 1.554
+[2019.07.31-12.19.12:125][ 32]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.554
+[2019.07.31-12.19.12:130][ 32]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Initial_draft_player_1_Blueprint] ([1] browsable assets)...
+[2019.07.31-12.19.12:130][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Initial_draft_player_1_Blueprint]
+[2019.07.31-12.19.12:149][ 32]LogSavePackage: Moving '../../../../../VeranoTecnologico/UE4_Verano_tecnologico/Saved/Initial_draft_player_1_BlueprintDA4A290D08D715C20F5522EE9D295FFE.tmp' to '../../../../../VeranoTecnologico/UE4_Verano_tecnologico/Saved/Autosaves/Game/Initial_draft_player_1_Blueprint_Auto1.uasset'
+[2019.07.31-12.19.12:150][ 32]LogFileHelpers: Auto-saving content packages took 0.022
+[2019.07.31-12.20.20:288][971]LogLinux: Scale at X=178.000000, Y=79.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.20.20:288][971]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.20.20:444][972]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.20.37:904][202]LogLinux: Scale at X=178.000000, Y=79.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.20.37:905][202]LogSlate: Window 'Tutorials' being destroyed
+[2019.07.31-12.20.37:982][202]LogSlate: Window 'Tutorials' being destroyed
+[2019.07.31-12.21.16:671][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-12.21.16:691][723]LogSlate: Took 0.012609 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.07.31-12.21.24:319][871]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.21.24:320][871]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.21.24:320][871]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.21.24:497][873]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.21.36:878][147]LogLinux: Scale at X=656.000000, Y=563.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.21.36:986][149]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.21.45:757][349]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.21.45:758][349]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.21.45:758][349]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.21.45:943][351]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.21.46:808][369]LogLinux: Scale at X=1048.000000, Y=518.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.21.46:902][370]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.22.21:044][ 16]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.22.21:135][ 18]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.22.53:654][100]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.22.53:655][100]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.22.53:655][100]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.22.54:768][122]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.22.54:768][122]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.22.54:768][122]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.22.58:005][178]LogLinux: Scale at X=598.000000, Y=524.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.22.58:095][180]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.24.01:982][645]LogLinux: Scale at X=787.000000, Y=563.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.24.02:074][647]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.24.32:696][778]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.24.32:697][778]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.24.32:700][778]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.24.32:753][778]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.24.32:771][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Initial_draft_player_1_Blueprint" FILE="../../../../../VeranoTecnologico/UE4_Verano_tecnologico/Content/Initial_draft_player_1_Blueprint.uasset" SILENT=true
+[2019.07.31-12.24.32:792][778]LogSavePackage: Moving '../../../../../VeranoTecnologico/UE4_Verano_tecnologico/Saved/Initial_draft_player_1_BlueprintF5AE5CA908D715C2CE73287EB045FC9F.tmp' to '../../../../../VeranoTecnologico/UE4_Verano_tecnologico/Content/Initial_draft_player_1_Blueprint.uasset'
+[2019.07.31-12.24.34:560][815]BlueprintLog: New page: Compile Initial_draft_player_1_Blueprint
+[2019.07.31-12.24.35:283][815]LogUObjectHash: Compacting FUObjectHashTables data took  12.36ms
+[2019.07.31-12.24.37:561][862]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.31-12.24.37:592][862]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.07.31-12.24.37:592][862]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Draft.Draft:PersistentLevel' has LevelScriptBlueprint '/Game/Draft.Draft:PersistentLevel.Draft' with GeneratedClass '/Game/Draft.Draft_C' with ClassGeneratedBy '/Game/Draft.Draft:PersistentLevel.Draft'
+[2019.07.31-12.24.37:593][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.31-12.24.37:594][862]PIE: New page: PIE session: Minimal_Default (Jul 31, 2019, 4:24:37 PM)
+[2019.07.31-12.24.37:811][862]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.07.31-12.24.37:822][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009593s)
+[2019.07.31-12.24.37:847][862]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.07.31-12.24.37:857][862]LogPlayLevel: PIE: World Init took: (0.034303s)
+[2019.07.31-12.24.37:857][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.046181s)
+[2019.07.31-12.24.37:945][862]LogUObjectHash: Compacting FUObjectHashTables data took   7.65ms
+[2019.07.31-12.24.37:947][862]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.07.31-12.24.37:947][862]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.07.31-12.24.37:947][862]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.07.31-12.24.37:947][862]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.07.31-12.24.37:947][862]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.07.31-12.24.37:948][862]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2019.07.31-12.24.37:948][862]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.07.31-12.24.37:949][862]LogAudioMixer: Display: Initializing audio mixer.
+[2019.07.31-12.24.37:949][862]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2019.07.31-12.24.38:038][862]LogInit: FAudioDevice initialized.
+[2019.07.31-12.24.38:081][862]LogLoad: Game class is 'GameModeBase'
+[2019.07.31-12.24.38:090][862]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.07.31-14.24.38
+[2019.07.31-12.24.38:090][862]LogWorld: Bringing up level for play took: 0.001704
+[2019.07.31-12.24.38:217][862]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.07.31-12.24.38:678][862]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.07.31-12.24.38:679][862]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2019.07.31-12.24.38:706][862]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.12
+[2019.07.31-12.24.38:707][862]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.07.31-12.24.38:707][862]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Draft.Draft:PersistentLevel' has LevelScriptBlueprint '/Game/Draft.Draft:PersistentLevel.Draft' with GeneratedClass '/Game/Draft.Draft_C' with ClassGeneratedBy '/Game/Draft.Draft:PersistentLevel.Draft'
+[2019.07.31-12.24.51:294][107]LogSlate: Took 0.012001 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.07.31-12.24.54:092][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-12.25.08:635][489]LogLinux: Scale at X=90.000000, Y=221.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.25.08:703][491]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.25.17:223][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Initial_draft_player_1_Blueprint" FILE="../../../../../VeranoTecnologico/UE4_Verano_tecnologico/Content/Initial_draft_player_1_Blueprint.uasset" SILENT=true
+[2019.07.31-12.25.17:243][795]LogSavePackage: Moving '../../../../../VeranoTecnologico/UE4_Verano_tecnologico/Saved/Initial_draft_player_1_Blueprint78B2A7D708D715C2E8F28CB2B2EC4AED.tmp' to '../../../../../VeranoTecnologico/UE4_Verano_tecnologico/Content/Initial_draft_player_1_Blueprint.uasset'
+[2019.07.31-12.25.36:986][232]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.25.36:987][232]LogSlate: Window 'Initial_draft_player_1_Blueprint' being destroyed
+[2019.07.31-12.25.37:032][232]LogSlate: Window 'Initial_draft_player_1_Blueprint' being destroyed
+[2019.07.31-12.25.49:124][548]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.07.31-12.25.49:124][548]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.07.31-12.25.49:124][548]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.07.31-12.25.49:124][548]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Draft.Draft:PersistentLevel' has LevelScriptBlueprint '/Game/Draft.Draft:PersistentLevel.Draft' with GeneratedClass '/Game/Draft.Draft_C' with ClassGeneratedBy '/Game/Draft.Draft:PersistentLevel.Draft'
+[2019.07.31-12.25.49:126][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.31-12.25.49:126][548]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.07.31-12.25.49:176][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.31-12.25.49:177][548]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.07.31-12.25.49:177][548]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Draft.Draft:PersistentLevel' has LevelScriptBlueprint '/Game/Draft.Draft:PersistentLevel.Draft' with GeneratedClass '/Game/Draft.Draft_C' with ClassGeneratedBy '/Game/Draft.Draft:PersistentLevel.Draft'
+[2019.07.31-12.25.49:351][548]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.07.31-12.25.49:380][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.31-12.25.49:472][548]LogUObjectHash: Compacting FUObjectHashTables data took  14.92ms
+[2019.07.31-12.25.49:512][549]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.07.31-12.26.03:622][919]LogEditorViewport: Clicking on Actor (LMB): Initial_draft_player_1_Blueprint_C (Initial_draft_player_1_Blueprint)
+[2019.07.31-12.26.13:375][165]LogLinux: Scale at X=555.000000, Y=460.799988: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.26.13:447][165]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-12.26.13:494][166]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.26.15:281][208]LogLinux: Scale at X=893.500000, Y=590.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.26.15:305][208]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.26.16:205][229]LogLinux: Scale at X=829.500000, Y=477.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.26.16:247][230]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.26.18:932][289]LogLinux: Scale at X=829.500000, Y=477.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.26.18:976][291]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.26.21:622][352]LogLinux: Scale at X=829.500000, Y=477.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.26.21:669][354]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.26.21:862][357]LogLinux: Scale at X=829.500000, Y=477.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.26.21:923][359]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.26.22:488][371]LogLinux: Scale at X=810.500000, Y=479.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.26.22:514][372]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.26.24:734][427]LogLinux: Scale at X=794.000000, Y=461.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.26.24:809][429]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.26.25:412][441]LogLinux: Scale at X=829.500000, Y=477.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.26.25:474][443]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.26.25:784][448]LogLinux: Scale at X=815.500000, Y=709.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.26.25:809][448]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.26.26:830][473]LogLinux: Scale at X=791.500000, Y=535.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.26.26:894][475]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.26.27:647][490]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.07.31-12.26.27:658][490]LogLinux: Scale at X=798.500000, Y=644.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.26.27:703][491]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.26.27:759][491]LogLinux: Scale at X=829.500000, Y=477.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.26.27:804][493]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.26.29:089][524]LogEditorViewport: Clicking Background
+[2019.07.31-12.26.29:866][542]LogLinux: Scale at X=309.000000, Y=339.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.26.29:959][542]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-12.26.29:994][544]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.26.35:766][694]LogLinux: Scale at X=305.000000, Y=455.200012: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.26.35:776][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-12.26.35:822][695]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.26.39:043][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-12.26.40:681][823]LogLinux: Scale at X=120.000000, Y=380.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.26.40:750][825]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.26.43:366][893]LogEditorViewport: Clicking Background
+[2019.07.31-12.26.46:865][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-12.26.53:961][166]LogLinux: Scale at X=218.500000, Y=460.799988: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.26.54:013][167]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.26.54:650][183]LogLinux: Scale at X=422.500000, Y=641.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.26.54:690][185]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.04:149][415]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.04:149][415]LogLinux: Scale at X=228.000000, Y=117.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.04:150][415]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.04:213][416]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.14:555][667]LogSlate: Window 'Add Content to the Project' being destroyed
+[2019.07.31-12.27.17:216][733]LogLinux: Scale at X=218.500000, Y=460.799988: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.17:269][734]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.17:663][744]LogLinux: Scale at X=422.500000, Y=641.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.17:701][746]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.18:249][758]LogLinux: Scale at X=389.500000, Y=564.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.18:292][759]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.18:894][773]LogLinux: Scale at X=430.500000, Y=515.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.18:927][775]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.22:196][856]LogLinux: Scale at X=422.500000, Y=641.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.22:230][858]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.24:100][904]LogLinux: Scale at X=398.000000, Y=609.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.24:124][905]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.24:721][919]LogLinux: Scale at X=434.000000, Y=557.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.24:758][921]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.24:867][922]LogLinux: Scale at X=414.500000, Y=620.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.24:900][923]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.25:025][923]LogLinux: Scale at X=452.000000, Y=460.799988: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.25:053][924]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.25:111][924]LogLinux: Scale at X=398.500000, Y=725.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.25:145][925]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.25:635][936]LogLinux: Scale at X=386.500000, Y=631.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.25:665][937]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.25:705][937]LogLinux: Scale at X=398.000000, Y=609.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.25:739][938]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.26:319][952]LogLinux: Scale at X=422.500000, Y=641.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.26:381][954]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.27:257][974]LogLinux: Scale at X=448.500000, Y=607.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.27:296][976]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.29:086][ 20]LogLinux: Scale at X=389.500000, Y=564.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.29:111][ 21]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.33:438][130]LogLinux: Scale at X=386.500000, Y=631.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.33:473][131]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.34:684][161]LogLinux: Scale at X=434.000000, Y=557.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.34:715][163]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.38:870][267]LogLinux: Scale at X=414.500000, Y=620.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.38:904][269]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.39:960][294]LogLinux: Scale at X=452.000000, Y=460.799988: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.39:983][295]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.45:447][431]LogLinux: Scale at X=391.500000, Y=683.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.45:481][432]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.45:501][432]LogLinux: Scale at X=398.500000, Y=725.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.45:524][433]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.45:910][442]LogLinux: Scale at X=391.500000, Y=683.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.45:944][444]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.27.57:390][741]LogLinux: Scale at X=437.000000, Y=696.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.27.57:471][743]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.28.05:872][963]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.28.05:872][963]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.28.05:876][963]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.28.05:942][963]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/Initial_cards.Initial_cards
+[2019.07.31-12.28.05:968][963]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.28.05:998][963]LogMaterial: Display: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2019.07.31-12.28.06:052][963]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.31-12.28.06:069][963]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.28.06:070][963]LogLinux: Scale at X=688.000000, Y=402.500000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.28.06:366][964]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.28.32:128][361]LogLinux: Scale at X=1212.000000, Y=300.299988: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.28.32:271][362]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.29.02:521][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-12.29.08:652][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.31-12.29.16:048][ 54]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.29.16:048][ 54]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.29.16:102][ 54]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.29.16:153][ 54]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.29.16:254][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Initial_cards" FILE="../../../../../VeranoTecnologico/UE4_Verano_tecnologico/Content/Initial_cards.uasset" SILENT=true
+[2019.07.31-12.29.16:316][ 54]LogSavePackage: Moving '../../../../../VeranoTecnologico/UE4_Verano_tecnologico/Saved/Initial_cards78D21E9608D715C3776BDD9AC12BA0BE.tmp' to '../../../../../VeranoTecnologico/UE4_Verano_tecnologico/Content/Initial_cards.uasset'
+[2019.07.31-12.29.26:944][210]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.29.26:944][210]LogSlate: Window 'Initial_cards' being destroyed
+[2019.07.31-12.29.27:010][210]LogSlate: Window 'Initial_cards' being destroyed
+[2019.07.31-12.29.29:586][277]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.29.29:586][277]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.29.29:586][277]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.29.29:692][278]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.29.38:659][505]Cmd: DELETE
+[2019.07.31-12.29.38:659][505]Cmd: ACTOR DELETE
+[2019.07.31-12.29.38:792][505]LogEditorActor: Deleted Actor: PaperTileMapActor
+[2019.07.31-12.29.38:880][505]LogUObjectHash: Compacting FUObjectHashTables data took   7.31ms
+[2019.07.31-12.29.38:883][505]LogEditorActor: Deleted 1 Actors (0.097 secs)
+[2019.07.31-12.29.46:840][716]LogLinux: Scale at X=0.000000, Y=27.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.29.46:840][716]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.29.46:866][716]LogLinux: Scale at X=683.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=96.000000 (horz scale: 1.000000), VDPI=96.000000 (vert scale: 1.000000))
+[2019.07.31-12.29.46:929][716]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.31-12.29.46:942][716]LogLinux: Setting swap interval to 'Immediate'
+[2019.07.31-12.29.47:040][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.07.31-12.29.47:492][716]LogSavePackage: Moving '../../../../../VeranoTecnologico/UE4_Verano_tecnologico/Saved/Minimal_Default78DF565908D715C38A054E28C307C5B1.tmp' to '../../../../../VeranoTecnologico/UE4_Verano_tecnologico/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.07.31-12.29.47:751][716]LogSavePackage: Moving '../../../../../VeranoTecnologico/UE4_Verano_tecnologico/Saved/Minimal_Default_BuiltData78E1407C08D715C38A10AC46C308E8B2.tmp' to '../../../../../VeranoTecnologico/UE4_Verano_tecnologico/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
